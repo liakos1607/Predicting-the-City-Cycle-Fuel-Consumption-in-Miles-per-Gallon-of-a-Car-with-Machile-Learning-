@@ -1,0 +1,2 @@
+# Predicting-the-City-Cycle-Fuel-Consumption-in-Miles-per-Gallon-of-a-Car-with-Machile-Learning-
+The  project is about building a model that predicts the city-cycle fuel consumption in miles per gallon of a  car. The target is  to explore the given data, process them as you see fit, present them (before and  after preprocessing) and build a machine learning model using scikit-learn python library.
